@@ -1,0 +1,30 @@
+#define FILEPATH=/gldportal/www/html/Scenario_${SCENARIO}/simulation${SIMULATION}_run${RUN}/
+//#define FILEPATH=/gldportal/www/portal_files/RunHere_ES/
+
+object recorder {
+	parent SPCT_1;
+	in '2012-03-19 00:00:00';
+	property power_out.real,power_out.imag,power_losses.real,power_losses.imag;
+	file "${FILEPATH}Transformer_Power.csv";
+	interval ${INTRVL};
+	limit ${LMT};
+};
+
+object recorder {
+	parent battery_inverter;
+	in '2012-03-19 00:00:00';
+	property P_Out,Q_Out,battery_soc,power_A.real;
+	file "${FILEPATH}Inverter_Values.csv";
+	interval ${INTRVL};
+	limit ${LMT};
+};
+
+object recorder {
+	parent house1_1120_1_OH_A_tm;
+	in '2012-03-19 00:00:00';
+	property outdoor_temperature,air_temperature,hvac_load;
+	file "${FILEPATH}Temperature.csv";
+	interval ${INTRVL};
+	limit ${LMT};
+};
+

@@ -1,0 +1,352 @@
+
+
+class player {
+	double value;
+};
+
+object player {
+	name sh_v;
+	file "${PLAYERDIRECTORY}${SHADING}";
+	loop 360;
+	//object recorder {
+	//	file ${FILEPATH}shading_factor_player_seconds.csv;
+	//	interval ${SMINT};
+	//	in '${REC_DATE} 13:00:00';
+	//	out '${REC_DATE} 15:00:00';
+	//	property value;
+	//};
+};
+
+// Recording for whole day:
+
+object recorder {
+	parent Reg1;
+	file "${FILEPATH}reg1_output_day.csv";
+	property tap_A,tap_B,tap_C,power_in_A.real,power_in_B.real,power_in_C.real,power_in_A.imag,power_in_B.imag,power_in_C.imag,tap_A_change_count,tap_B_change_count,tap_C_change_count;
+	interval ${INTRVL};
+	limit ${LMT};
+};
+
+object recorder {
+	parent subtransmission_node;
+	file "${FILEPATH}measured_energy_day.csv";
+	interval ${INTRVL};
+	limit ${LMT};
+	property measured_real_energy;
+};
+
+object recorder {
+	parent substation_transformer;
+	file "${FILEPATH}transformer_power_day.csv";
+	property power_in_A.real,power_in_A.imag,power_in_B.real,power_in_B.imag,power_in_C.real,power_in_C.imag;
+	interval ${INTRVL};
+	limit ${LMT};
+};
+
+object collector {
+	group "class=inverter AND groupid=solar_inverters";
+	property sum(power_A.real),sum(power_B.real),sum(power_C.real);
+	file "${FILEPATH}solar_collector_day.csv";
+	interval ${INTRVL};
+	limit ${LMT};
+}
+
+object recorder {
+        parent 650;
+        file "${FILEPATH}Voltage_650_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 630;
+        file "${FILEPATH}Voltage_630_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 632;
+        file "${FILEPATH}Voltage_632_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 633;
+        file "${FILEPATH}Voltage_633_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 634;
+        file "${FILEPATH}Voltage_634_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 645;
+        file "${FILEPATH}Voltage_645_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 646;
+        file "${FILEPATH}Voltage_646_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 671;
+        file "${FILEPATH}Voltage_671_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 692;
+        file "${FILEPATH}Voltage_692_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 675;
+        file "${FILEPATH}Voltage_675_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 684;
+        file "${FILEPATH}Voltage_684_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 611;
+        file "${FILEPATH}Voltage_611_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 652;
+        file "${FILEPATH}Voltage_652_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+        parent 680;
+        file "${FILEPATH}Voltage_680_day.csv";
+        interval ${INTRVL};
+        limit ${LMT};
+        property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+
+// Recording in smaller intervals for magnification:
+
+// This is included in solar_panels.glm
+//#if solar_pen>=0.002
+//object recorder {
+//	parent solar_recorded;
+//        file ${FILEPATH}solar_insolation.csv;
+//        interval ${SMINT};
+//      in '${STARTDATE} 13:00:00';
+//	out '${STOPDATE} 15:00:00';
+//        property Insolation;
+//};
+//#endif
+
+object recorder {
+	parent 650;
+	file "${FILEPATH}Voltage_650_seconds.csv";
+	interval ${SMINT};
+	in '{STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 630;
+	file "${FILEPATH}Voltage_630_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 632;
+	file "${FILEPATH}Voltage_632_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 633;
+	file "${FILEPATH}Voltage_633_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 634;
+	file "${FILEPATH}Voltage_634_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 645;
+	file "${FILEPATH}Voltage_645_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 646;
+	file "${FILEPATH}Voltage_646_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 671;
+	file "${FILEPATH}Voltage_671_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 692;
+	file "${FILEPATH}Voltage_692_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 675;
+	file "${FILEPATH}Voltage_675_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 684;
+	file "${FILEPATH}Voltage_684_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 611;
+	file "${FILEPATH}Voltage_611_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 652;
+	file "${FILEPATH}Voltage_652_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent 680;
+	file "${FILEPATH}Voltage_680_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag;
+};
+
+object recorder {
+	parent substation_transformer;
+	file "${FILEPATH}transformer_power_seconds.csv";
+	interval ${SMINT};
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property power_in_A.real,power_in_A.imag,power_in_B.real,power_in_B.imag,power_in_C.real,power_in_C.imag;
+};
+
+object collector {
+	group "class=inverter AND groupid=solar_inverters";
+	property sum(power_A.real),sum(power_B.real),sum(power_C.real);
+	file "${FILEPATH}solar_collector_seconds.csv";
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	interval ${SMINT};
+};
+
+object recorder {
+	parent Reg1;
+	file "${FILEPATH}reg1_output_seconds.csv";
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	interval ${SMINT};
+	property tap_A,tap_B,tap_C,power_in_A.real,power_in_B.real,power_in_C.real,power_in_A.imag,power_in_B.imag,power_in_C.imag,tap_A_change_count,tap_B_change_count,tap_C_change_count;
+};
+
+object recorder {
+	parent CTTF_A_6321;
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property power_out.real,power_out.imag,power_losses.real,power_losses.imag;
+	file "${FILEPATH}Battery_Transformer_Power.csv";
+	interval ${INTRVL};
+	limit ${LMT};
+};
+
+object recorder {
+	parent battery_inverter;
+	in '${STARTDATE} ${STARTTIME}';
+	out '${STOPDATE} ${STOPTIME}';
+	property P_Out,Q_Out,battery_soc,power_A.real;
+	file "${FILEPATH}Battery_Inverter_Values.csv";
+	interval ${INTRVL};
+	limit ${LMT};
+};

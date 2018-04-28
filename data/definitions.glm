@@ -1,0 +1,93 @@
+// Simulation Identifiers
+#define SCENARIO=1
+#define SIMULATION=1
+#define RUN=121
+
+// Recording Intervals
+#define INTRVL=900 // for whole-day
+//#define INTRVL=60 // hourly
+#define SMINT=10 // for magnification window
+#define LMT=0
+//#define LMT=1440 //24 hours
+
+// Solar
+#define solar_pen=1
+#define solar_size=6
+#define TMYFILE=CA-Bakersfield_Meadows_Field.tmy3
+#define SHADING=regional_shading.player
+
+//#if RECORDING_INT==day
+#define REC_DATE=2016-01-01
+#define STARTDATE=2016-01-01
+#define STARTTIME=00:00:00
+#define STOPDATE=2016-01-05
+#define STOPTIME=23:59:59
+
+//#if MONTH==Jan
+//#define REC_DATE=2016-01-01
+//#define STARTDATE=2016-01-01
+//#define STARTTIME=00:00:00
+//#define STOPDATE=2016-01-31
+//#define STOPTIME=23:59:59
+
+//#else
+//#define STARTDATE=2000-07-21
+//#define STARTTIME=13:00:00
+//#define STOPDATE=2000-07-21
+//#define STOPTIME=15:00:00
+//#endif
+
+// Regulator Defaults
+#define TapA=4
+#define TapB=4
+#define TapC=4
+#define SenseNode=630
+#define BandCenter=2581 // raised to move everything into ANCII in base case
+#define BandWidth=40
+#define ControlMode=2 // Output Voltage
+#define ControlLevel=1 // Individual
+
+// Capacitor Defaults
+#define Cap1Parent=611
+#define Cap1ControlMode=2 // Volt
+#define Cap1ControlLevel=1 //Individual
+#define Cap1Phases=CN
+#define Cap1PTPhases=CN
+#define Cap1SwitchA=0
+#define Cap1SwitchB=0
+#define Cap1SwitchC=0
+#define Cap1RemoteSenseObject=611
+#define Cap1VArLow=0
+#define Cap1VArHigh=0
+#define Cap1VoltLow=2160
+#define Cap1VoltHigh=2600
+#define Cap1CurrentLow=0
+#define Cap1CurrentHigh=0
+#define Cap2Parent=675
+#define Cap2ControlMode=2
+#define Cap2ControlLevel=1
+#define Cap2Phases=ABC
+#define Cap2PTPhases=ABC
+#define Cap2SwitchA=0
+#define Cap2SwitchB=0
+#define Cap2SwitchC=0
+#define Cap2RemoteSenseObject=675
+#define Cap2VArLow=0
+#define Cap2VArHigh=0
+#define Cap2VoltLow=2160
+#define Cap2VoltHigh=2600
+#define Cap2CurrentLow=0
+#define Cap2CurrentHigh=0
+#define Cap1Active=1
+#define Cap2Active=1
+
+// Battery Defaults
+#define BATTERY_STATUS=ONLINE
+
+#define MAX_CHARGE_RATE=15 //kW
+#define MAX_DISCHARGE_RATE=20 //kW
+#define DISCHARGE_ON=50 //kW
+#define DISCHARGE_OFF=45 //kW
+#define CHARGE_ON=25 //kW
+#define CHARGE_OFF=40 //kW
+#define BATTERY_CAPACITY=40 //kWh

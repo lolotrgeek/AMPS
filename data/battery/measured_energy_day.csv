@@ -1,0 +1,15 @@
+# file...... measured_energy_day.csv
+# date...... Sat Sep 02 13:19:34 2017
+# user...... Jon
+# host...... (null)
+# target.... meter 23
+# trigger... (none)
+# interval.. 900
+# limit..... 0
+# timestamp,measured_real_energy
+2016-01-01 00:00:00 PST,+0
+2016-01-01 00:15:00 PST,+214973
+2016-01-01 00:30:00 PST,+561477
+2016-01-01 00:45:00 PST,+911783
+2016-01-01 01:00:00 PST,+1.33193e+006
+2016-01-01 01:15:00 PST,+1.8068e+006

@@ -1,0 +1,15 @@
+# file...... solar_collector_day.csv
+# date...... Sat Sep 02 13:19:34 2017
+# user...... Jon
+# host...... (null)
+# group..... class=inverter AND groupid=solar_inverters
+# trigger... (none)
+# interval.. 900
+# limit..... 0
+# property.. timestamp,sum(power_A.real),sum(power_B.real),sum(power_C.real)
+2016-01-01 00:00:00 PST,+0,+0,+0
+2016-01-01 00:15:00 PST,+0,+0,+0
+2016-01-01 00:30:00 PST,+0,+0,+0
+2016-01-01 00:45:00 PST,+0,+0,+0
+2016-01-01 01:00:00 PST,+0,+0,+0
+2016-01-01 01:15:00 PST,+0,+0,+0

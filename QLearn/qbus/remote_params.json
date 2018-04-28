@@ -1,0 +1,23 @@
+{
+    "class_name": "GridlabBusParams",
+    "bus_type": "GridlabBus",
+    "filename": "IEEE_8500.glm",
+    "time_info": {
+        "start": "2000-09-01 00:00:00",
+        "delta": 900,
+        "end": "2000-09-02 00:00:00"
+    },
+    "output": [
+        {
+            "name": "network_node",
+            "param": "distribution_load"
+        }
+    ],
+	"external_gld": true,
+	"use_NaN":true,
+    "poll": 0.05,
+	"port":51003,
+    "folder": ".",
+    "debug":true,
+    "debug_type":"dConsole"
+}

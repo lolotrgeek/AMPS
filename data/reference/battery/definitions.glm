@@ -1,0 +1,27 @@
+// Simulation Identifiers
+#define SCENARIO=2
+#define SIMULATION=1
+#define RUN=113
+
+// Recording Intervals
+#define INTRVL=60
+#define LMT=1440 //24 hours
+
+#define STARTDATE=2012-03-18
+#define STARTTIME=00:00:00
+#define STOPDATE=2012-03-20
+#define STOPTIME=00:00:00
+#define REC_IN_DATE=2012-03-19
+#define REC_IN_TIME=00:00:00
+
+#define TMYFILE=WA-Seattle.tmy2
+
+#define BATTERY_STATUS=ONLINE
+
+#define MAX_CHARGE_RATE=15 //kW
+#define MAX_DISCHARGE_RATE=20 //kW
+#define DISCHARGE_ON=50 //kW
+#define DISCHARGE_OFF=40 //kW
+#define CHARGE_ON=25 //kW
+#define CHARGE_OFF=40 //kW
+#define BATTERY_CAPACITY=40 //kWh

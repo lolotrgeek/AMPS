@@ -1,0 +1,1871 @@
+   ... load time: 2 sec
+   ... starting up server environment
+   ... starting server
+   ... bind ok to 0.0.0.0
+   ... server listening to port 45477
+   ... initializing objects...
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_1 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_2 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_3 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_4 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_5 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_6 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_7 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_8 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_9 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_10 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_11 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_12 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_13 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_14 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_15 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_16 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_17 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_18 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_19 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_20 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_21 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_22 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_23 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_24 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_25 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_26 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_27 has a negative or 0 mean replacement time - defaulting to 1 hour
+WARNING  [INIT] : Fuse:R4-25-00-1_fuse_28 has a negative or 0 mean replacement time - defaulting to 1 hour
+   ... transformer::init(): deferring initialization on transformer_configuration_827
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_827
+   ... transformer::init(): deferring initialization on transformer_configuration_827
+   ... transformer::init(): deferring initialization on transformer_configuration_827
+   ... transformer::init(): deferring initialization on transformer_configuration_828
+   ... transformer::init(): deferring initialization on transformer_configuration_828
+   ... transformer::init(): deferring initialization on transformer_configuration_828
+   ... transformer::init(): deferring initialization on transformer_configuration_828
+   ... transformer::init(): deferring initialization on transformer_configuration_828
+   ... transformer::init(): deferring initialization on transformer_configuration_821
+   ... transformer::init(): deferring initialization on transformer_configuration_829
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_830
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_837
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_821
+   ... transformer::init(): deferring initialization on transformer_configuration_828
+   ... transformer::init(): deferring initialization on transformer_configuration_838
+   ... transformer::init(): deferring initialization on transformer_configuration_821
+   ... transformer::init(): deferring initialization on transformer_configuration_827
+   ... transformer::init(): deferring initialization on transformer_configuration_838
+   ... transformer::init(): deferring initialization on transformer_configuration_821
+   ... transformer::init(): deferring initialization on transformer_configuration_828
+   ... transformer::init(): deferring initialization on transformer_configuration_838
+   ... transformer::init(): deferring initialization on transformer_configuration_821
+   ... transformer::init(): deferring initialization on transformer_configuration_829
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_821
+   ... transformer::init(): deferring initialization on transformer_configuration_829
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_822
+   ... transformer::init(): deferring initialization on transformer_configuration_829
+   ... transformer::init(): deferring initialization on transformer_configuration_838
+   ... transformer::init(): deferring initialization on transformer_configuration_823
+   ... transformer::init(): deferring initialization on transformer_configuration_829
+   ... transformer::init(): deferring initialization on transformer_configuration_838
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_837
+   ... transformer::init(): deferring initialization on transformer_configuration_828
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_822
+   ... transformer::init(): deferring initialization on transformer_configuration_828
+   ... transformer::init(): deferring initialization on transformer_configuration_830
+   ... transformer::init(): deferring initialization on transformer_configuration_827
+   ... transformer::init(): deferring initialization on transformer_configuration_830
+   ... transformer::init(): deferring initialization on transformer_configuration_828
+   ... transformer::init(): deferring initialization on transformer_configuration_824
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_831
+   ... transformer::init(): deferring initialization on transformer_configuration_831
+   ... transformer::init(): deferring initialization on transformer_configuration_832
+   ... transformer::init(): deferring initialization on transformer_configuration_832
+   ... transformer::init(): deferring initialization on transformer_configuration_833
+   ... transformer::init(): deferring initialization on transformer_configuration_832
+   ... transformer::init(): deferring initialization on transformer_configuration_825
+   ... transformer::init(): deferring initialization on transformer_configuration_826
+   ... transformer::init(): deferring initialization on transformer_configuration_830
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_822
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_836
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_834
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_835
+   ... transformer::init(): deferring initialization on transformer_configuration_979
+WARNING  [INIT] : windturb_dg (id:1079, name:Community_Wind_1): Rated generator voltage (LL: 360.0) and nominal voltage (LL: 24900.0) of meter parent are different by greater than 10 percent. Odd behavior may occur.
+WARNING  [INIT] : windturb_dg (id:1080, name:Community_Wind_2): Rated generator voltage (LL: 360.0) and nominal voltage (LL: 24900.0) of meter parent are different by greater than 10 percent. Odd behavior may occur.
+WARNING  [INIT] : Node:cap_1_threePhase does not have the same nominal voltage as its parent - copying voltage from parent.
+   ... unresponsiveLoad_house0 (ZIPload:1083) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house0 (ZIPload:1084) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house0 (waterheater:1086) schedule is not specified so the load may be inactive
+   ... ev_house0 (evcharger_det:1088) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1092)
+   ... unresponsiveLoad_house1 (ZIPload:1094) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house1 (ZIPload:1095) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house1 (waterheater:1097) schedule is not specified so the load may be inactive
+   ... ev_house1 (evcharger_det:1099) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1103)
+   ... unresponsiveLoad_house2 (ZIPload:1105) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house2 (ZIPload:1106) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house2 (waterheater:1108) schedule is not specified so the load may be inactive
+   ... ev_house2 (evcharger_det:1110) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1114)
+   ... unresponsiveLoad_house3 (ZIPload:1116) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house3 (ZIPload:1117) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house3 (waterheater:1119) schedule is not specified so the load may be inactive
+   ... ev_house3 (evcharger_det:1121) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1125)
+   ... unresponsiveLoad_house4 (ZIPload:1127) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house4 (ZIPload:1128) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house4 (waterheater:1130) schedule is not specified so the load may be inactive
+   ... ev_house4 (evcharger_det:1132) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1136)
+   ... unresponsiveLoad_house5 (ZIPload:1138) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house5 (ZIPload:1139) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house5 (waterheater:1141) schedule is not specified so the load may be inactive
+   ... ev_house5 (evcharger_det:1143) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1147)
+   ... unresponsiveLoad_house6 (ZIPload:1149) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house6 (ZIPload:1150) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house6 (waterheater:1152) schedule is not specified so the load may be inactive
+   ... ev_house6 (evcharger_det:1154) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1158)
+   ... unresponsiveLoad_house7 (ZIPload:1160) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house7 (ZIPload:1161) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house7 (waterheater:1163) schedule is not specified so the load may be inactive
+   ... ev_house7 (evcharger_det:1165) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1169)
+   ... unresponsiveLoad_house8 (ZIPload:1171) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house8 (ZIPload:1172) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house8 (waterheater:1174) schedule is not specified so the load may be inactive
+   ... ev_house8 (evcharger_det:1176) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1180)
+   ... unresponsiveLoad_house9 (ZIPload:1182) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house9 (ZIPload:1183) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house9 (waterheater:1185) schedule is not specified so the load may be inactive
+   ... ev_house9 (evcharger_det:1187) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1191)
+   ... unresponsiveLoad_house10 (ZIPload:1193) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house10 (ZIPload:1194) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house10 (waterheater:1196) schedule is not specified so the load may be inactive
+   ... ev_house10 (evcharger_det:1198) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1202)
+   ... unresponsiveLoad_house11 (ZIPload:1204) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house11 (ZIPload:1205) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house11 (waterheater:1207) schedule is not specified so the load may be inactive
+   ... ev_house11 (evcharger_det:1209) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1213)
+   ... unresponsiveLoad_house12 (ZIPload:1215) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house12 (ZIPload:1216) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house12 (waterheater:1218) schedule is not specified so the load may be inactive
+   ... ev_house12 (evcharger_det:1220) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1224)
+   ... unresponsiveLoad_house13 (ZIPload:1226) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house13 (ZIPload:1227) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house13 (waterheater:1229) schedule is not specified so the load may be inactive
+   ... ev_house13 (evcharger_det:1231) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1235)
+   ... unresponsiveLoad_house14 (ZIPload:1237) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house14 (ZIPload:1238) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house14 (waterheater:1240) schedule is not specified so the load may be inactive
+   ... ev_house14 (evcharger_det:1242) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1246)
+   ... unresponsiveLoad_house15 (ZIPload:1248) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house15 (ZIPload:1249) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house15 (waterheater:1251) schedule is not specified so the load may be inactive
+   ... ev_house15 (evcharger_det:1253) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1257)
+   ... unresponsiveLoad_house16 (ZIPload:1259) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house16 (ZIPload:1260) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house16 (waterheater:1262) schedule is not specified so the load may be inactive
+   ... ev_house16 (evcharger_det:1264) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1268)
+   ... unresponsiveLoad_house17 (ZIPload:1270) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house17 (ZIPload:1271) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house17 (waterheater:1273) schedule is not specified so the load may be inactive
+   ... ev_house17 (evcharger_det:1275) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1279)
+   ... unresponsiveLoad_house18 (ZIPload:1281) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house18 (ZIPload:1282) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house18 (waterheater:1284) schedule is not specified so the load may be inactive
+   ... ev_house18 (evcharger_det:1286) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1290)
+   ... unresponsiveLoad_house19 (ZIPload:1292) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house19 (ZIPload:1293) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house19 (waterheater:1295) schedule is not specified so the load may be inactive
+   ... ev_house19 (evcharger_det:1297) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1301)
+   ... unresponsiveLoad_house20 (ZIPload:1303) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house20 (ZIPload:1304) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house20 (waterheater:1306) schedule is not specified so the load may be inactive
+   ... ev_house20 (evcharger_det:1308) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1312)
+   ... unresponsiveLoad_house21 (ZIPload:1314) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house21 (ZIPload:1315) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house21 (waterheater:1317) schedule is not specified so the load may be inactive
+   ... ev_house21 (evcharger_det:1319) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1323)
+   ... unresponsiveLoad_house22 (ZIPload:1325) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house22 (ZIPload:1326) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house22 (waterheater:1328) schedule is not specified so the load may be inactive
+   ... ev_house22 (evcharger_det:1330) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1334)
+   ... unresponsiveLoad_house23 (ZIPload:1336) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house23 (ZIPload:1337) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house23 (waterheater:1339) schedule is not specified so the load may be inactive
+   ... ev_house23 (evcharger_det:1341) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1345)
+   ... unresponsiveLoad_house24 (ZIPload:1347) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house24 (ZIPload:1348) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house24 (waterheater:1350) schedule is not specified so the load may be inactive
+   ... ev_house24 (evcharger_det:1352) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1356)
+   ... unresponsiveLoad_house25 (ZIPload:1358) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house25 (ZIPload:1359) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house25 (waterheater:1361) schedule is not specified so the load may be inactive
+   ... ev_house25 (evcharger_det:1363) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1367)
+   ... unresponsiveLoad_house26 (ZIPload:1369) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house26 (ZIPload:1370) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house26 (waterheater:1372) schedule is not specified so the load may be inactive
+   ... ev_house26 (evcharger_det:1374) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1378)
+   ... unresponsiveLoad_house27 (ZIPload:1380) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house27 (ZIPload:1381) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house27 (waterheater:1383) schedule is not specified so the load may be inactive
+   ... ev_house27 (evcharger_det:1385) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1389)
+   ... unresponsiveLoad_house28 (ZIPload:1391) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house28 (ZIPload:1392) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house28 (waterheater:1394) schedule is not specified so the load may be inactive
+   ... ev_house28 (evcharger_det:1396) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1400)
+   ... unresponsiveLoad_house29 (ZIPload:1402) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house29 (ZIPload:1403) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house29 (waterheater:1405) schedule is not specified so the load may be inactive
+   ... ev_house29 (evcharger_det:1407) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1411)
+   ... unresponsiveLoad_house30 (ZIPload:1413) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house30 (ZIPload:1414) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house30 (waterheater:1416) schedule is not specified so the load may be inactive
+   ... ev_house30 (evcharger_det:1418) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1422)
+   ... unresponsiveLoad_house31 (ZIPload:1424) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house31 (ZIPload:1425) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house31 (waterheater:1427) schedule is not specified so the load may be inactive
+   ... ev_house31 (evcharger_det:1429) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1433)
+   ... unresponsiveLoad_house32 (ZIPload:1435) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house32 (ZIPload:1436) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house32 (waterheater:1438) schedule is not specified so the load may be inactive
+   ... ev_house32 (evcharger_det:1440) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1444)
+   ... unresponsiveLoad_house33 (ZIPload:1446) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house33 (ZIPload:1447) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house33 (waterheater:1449) schedule is not specified so the load may be inactive
+   ... ev_house33 (evcharger_det:1451) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1455)
+   ... unresponsiveLoad_house34 (ZIPload:1457) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house34 (ZIPload:1458) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house34 (waterheater:1460) schedule is not specified so the load may be inactive
+   ... ev_house34 (evcharger_det:1462) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1466)
+   ... unresponsiveLoad_house35 (ZIPload:1468) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house35 (ZIPload:1469) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house35 (waterheater:1471) schedule is not specified so the load may be inactive
+   ... ev_house35 (evcharger_det:1473) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1477)
+   ... unresponsiveLoad_house36 (ZIPload:1479) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house36 (ZIPload:1480) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house36 (waterheater:1482) schedule is not specified so the load may be inactive
+   ... ev_house36 (evcharger_det:1484) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1488)
+   ... unresponsiveLoad_house37 (ZIPload:1490) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house37 (ZIPload:1491) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house37 (waterheater:1493) schedule is not specified so the load may be inactive
+   ... ev_house37 (evcharger_det:1495) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1499)
+   ... unresponsiveLoad_house38 (ZIPload:1501) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house38 (ZIPload:1502) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house38 (waterheater:1504) schedule is not specified so the load may be inactive
+   ... ev_house38 (evcharger_det:1506) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1510)
+   ... unresponsiveLoad_house39 (ZIPload:1512) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house39 (ZIPload:1513) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house39 (waterheater:1515) schedule is not specified so the load may be inactive
+   ... ev_house39 (evcharger_det:1517) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1521)
+   ... unresponsiveLoad_house40 (ZIPload:1523) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house40 (ZIPload:1524) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house40 (waterheater:1526) schedule is not specified so the load may be inactive
+   ... ev_house40 (evcharger_det:1528) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1532)
+   ... unresponsiveLoad_house41 (ZIPload:1534) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house41 (ZIPload:1535) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house41 (waterheater:1537) schedule is not specified so the load may be inactive
+   ... ev_house41 (evcharger_det:1539) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1543)
+   ... unresponsiveLoad_house42 (ZIPload:1545) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house42 (ZIPload:1546) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house42 (waterheater:1548) schedule is not specified so the load may be inactive
+   ... ev_house42 (evcharger_det:1550) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1554)
+   ... unresponsiveLoad_house43 (ZIPload:1556) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house43 (ZIPload:1557) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house43 (waterheater:1559) schedule is not specified so the load may be inactive
+   ... ev_house43 (evcharger_det:1561) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1565)
+   ... unresponsiveLoad_house44 (ZIPload:1567) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house44 (ZIPload:1568) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house44 (waterheater:1570) schedule is not specified so the load may be inactive
+   ... ev_house44 (evcharger_det:1572) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1576)
+   ... unresponsiveLoad_house45 (ZIPload:1578) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house45 (ZIPload:1579) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house45 (waterheater:1581) schedule is not specified so the load may be inactive
+   ... ev_house45 (evcharger_det:1583) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1587)
+   ... unresponsiveLoad_house46 (ZIPload:1589) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house46 (ZIPload:1590) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house46 (waterheater:1592) schedule is not specified so the load may be inactive
+   ... ev_house46 (evcharger_det:1594) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1598)
+   ... unresponsiveLoad_house47 (ZIPload:1600) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house47 (ZIPload:1601) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house47 (waterheater:1603) schedule is not specified so the load may be inactive
+   ... ev_house47 (evcharger_det:1605) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1609)
+   ... unresponsiveLoad_house48 (ZIPload:1611) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house48 (ZIPload:1612) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house48 (waterheater:1614) schedule is not specified so the load may be inactive
+   ... ev_house48 (evcharger_det:1616) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1620)
+   ... unresponsiveLoad_house49 (ZIPload:1622) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house49 (ZIPload:1623) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house49 (waterheater:1625) schedule is not specified so the load may be inactive
+   ... ev_house49 (evcharger_det:1627) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1631)
+   ... unresponsiveLoad_house50 (ZIPload:1633) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house50 (ZIPload:1634) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house50 (waterheater:1636) schedule is not specified so the load may be inactive
+   ... ev_house50 (evcharger_det:1638) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1642)
+   ... unresponsiveLoad_house51 (ZIPload:1644) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house51 (ZIPload:1645) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house51 (waterheater:1647) schedule is not specified so the load may be inactive
+   ... ev_house51 (evcharger_det:1649) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1653)
+   ... unresponsiveLoad_house52 (ZIPload:1655) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house52 (ZIPload:1656) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house52 (waterheater:1658) schedule is not specified so the load may be inactive
+   ... ev_house52 (evcharger_det:1660) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1664)
+   ... unresponsiveLoad_house53 (ZIPload:1666) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house53 (ZIPload:1667) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house53 (waterheater:1669) schedule is not specified so the load may be inactive
+   ... ev_house53 (evcharger_det:1671) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1675)
+   ... unresponsiveLoad_house54 (ZIPload:1677) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house54 (ZIPload:1678) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house54 (waterheater:1680) schedule is not specified so the load may be inactive
+   ... ev_house54 (evcharger_det:1682) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1686)
+   ... unresponsiveLoad_house55 (ZIPload:1688) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house55 (ZIPload:1689) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house55 (waterheater:1691) schedule is not specified so the load may be inactive
+   ... ev_house55 (evcharger_det:1693) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1697)
+   ... unresponsiveLoad_house56 (ZIPload:1699) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house56 (ZIPload:1700) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house56 (waterheater:1702) schedule is not specified so the load may be inactive
+   ... ev_house56 (evcharger_det:1704) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1708)
+   ... unresponsiveLoad_house57 (ZIPload:1710) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house57 (ZIPload:1711) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house57 (waterheater:1713) schedule is not specified so the load may be inactive
+   ... ev_house57 (evcharger_det:1715) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1719)
+   ... unresponsiveLoad_house58 (ZIPload:1721) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house58 (ZIPload:1722) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house58 (waterheater:1724) schedule is not specified so the load may be inactive
+   ... ev_house58 (evcharger_det:1726) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1730)
+   ... unresponsiveLoad_house59 (ZIPload:1732) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house59 (ZIPload:1733) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house59 (waterheater:1735) schedule is not specified so the load may be inactive
+   ... ev_house59 (evcharger_det:1737) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1741)
+   ... unresponsiveLoad_house60 (ZIPload:1743) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house60 (ZIPload:1744) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house60 (waterheater:1746) schedule is not specified so the load may be inactive
+   ... ev_house60 (evcharger_det:1748) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1752)
+   ... unresponsiveLoad_house61 (ZIPload:1754) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house61 (ZIPload:1755) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house61 (waterheater:1757) schedule is not specified so the load may be inactive
+   ... ev_house61 (evcharger_det:1759) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1763)
+   ... unresponsiveLoad_house62 (ZIPload:1765) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house62 (ZIPload:1766) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house62 (waterheater:1768) schedule is not specified so the load may be inactive
+   ... ev_house62 (evcharger_det:1770) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1774)
+   ... unresponsiveLoad_house63 (ZIPload:1776) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house63 (ZIPload:1777) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house63 (waterheater:1779) schedule is not specified so the load may be inactive
+   ... ev_house63 (evcharger_det:1781) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1785)
+   ... unresponsiveLoad_house64 (ZIPload:1787) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house64 (ZIPload:1788) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house64 (waterheater:1790) schedule is not specified so the load may be inactive
+   ... ev_house64 (evcharger_det:1792) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1796)
+   ... unresponsiveLoad_house65 (ZIPload:1798) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house65 (ZIPload:1799) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house65 (waterheater:1801) schedule is not specified so the load may be inactive
+   ... ev_house65 (evcharger_det:1803) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1807)
+   ... unresponsiveLoad_house66 (ZIPload:1809) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house66 (ZIPload:1810) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house66 (waterheater:1812) schedule is not specified so the load may be inactive
+   ... ev_house66 (evcharger_det:1814) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1818)
+   ... unresponsiveLoad_house67 (ZIPload:1820) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house67 (ZIPload:1821) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house67 (waterheater:1823) schedule is not specified so the load may be inactive
+   ... ev_house67 (evcharger_det:1825) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1829)
+   ... unresponsiveLoad_house68 (ZIPload:1831) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house68 (ZIPload:1832) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house68 (waterheater:1834) schedule is not specified so the load may be inactive
+   ... ev_house68 (evcharger_det:1836) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1840)
+   ... unresponsiveLoad_house69 (ZIPload:1842) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house69 (ZIPload:1843) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house69 (waterheater:1845) schedule is not specified so the load may be inactive
+   ... ev_house69 (evcharger_det:1847) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1851)
+   ... unresponsiveLoad_house70 (ZIPload:1853) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house70 (ZIPload:1854) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house70 (waterheater:1856) schedule is not specified so the load may be inactive
+   ... ev_house70 (evcharger_det:1858) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1862)
+   ... unresponsiveLoad_house71 (ZIPload:1864) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house71 (ZIPload:1865) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house71 (waterheater:1867) schedule is not specified so the load may be inactive
+   ... ev_house71 (evcharger_det:1869) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1873)
+   ... unresponsiveLoad_house72 (ZIPload:1875) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house72 (ZIPload:1876) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house72 (waterheater:1878) schedule is not specified so the load may be inactive
+   ... ev_house72 (evcharger_det:1880) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1884)
+   ... unresponsiveLoad_house73 (ZIPload:1886) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house73 (ZIPload:1887) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house73 (waterheater:1889) schedule is not specified so the load may be inactive
+   ... ev_house73 (evcharger_det:1891) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1895)
+   ... unresponsiveLoad_house74 (ZIPload:1897) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house74 (ZIPload:1898) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house74 (waterheater:1900) schedule is not specified so the load may be inactive
+   ... ev_house74 (evcharger_det:1902) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1906)
+   ... unresponsiveLoad_house75 (ZIPload:1908) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house75 (ZIPload:1909) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house75 (waterheater:1911) schedule is not specified so the load may be inactive
+   ... ev_house75 (evcharger_det:1913) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1917)
+   ... unresponsiveLoad_house76 (ZIPload:1919) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house76 (ZIPload:1920) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house76 (waterheater:1922) schedule is not specified so the load may be inactive
+   ... ev_house76 (evcharger_det:1924) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1928)
+   ... unresponsiveLoad_house77 (ZIPload:1930) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house77 (ZIPload:1931) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house77 (waterheater:1933) schedule is not specified so the load may be inactive
+   ... ev_house77 (evcharger_det:1935) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1939)
+   ... unresponsiveLoad_house78 (ZIPload:1941) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house78 (ZIPload:1942) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house78 (waterheater:1944) schedule is not specified so the load may be inactive
+   ... ev_house78 (evcharger_det:1946) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1950)
+   ... unresponsiveLoad_house79 (ZIPload:1952) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house79 (ZIPload:1953) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house79 (waterheater:1955) schedule is not specified so the load may be inactive
+   ... ev_house79 (evcharger_det:1957) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1961)
+   ... unresponsiveLoad_house80 (ZIPload:1963) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house80 (ZIPload:1964) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house80 (waterheater:1966) schedule is not specified so the load may be inactive
+   ... ev_house80 (evcharger_det:1968) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1972)
+   ... unresponsiveLoad_house81 (ZIPload:1974) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house81 (ZIPload:1975) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house81 (waterheater:1977) schedule is not specified so the load may be inactive
+   ... ev_house81 (evcharger_det:1979) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1983)
+   ... unresponsiveLoad_house82 (ZIPload:1985) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house82 (ZIPload:1986) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house82 (waterheater:1988) schedule is not specified so the load may be inactive
+   ... ev_house82 (evcharger_det:1990) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 1994)
+   ... unresponsiveLoad_house83 (ZIPload:1996) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house83 (ZIPload:1997) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house83 (waterheater:1999) schedule is not specified so the load may be inactive
+   ... ev_house83 (evcharger_det:2001) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2005)
+   ... unresponsiveLoad_house84 (ZIPload:2007) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house84 (ZIPload:2008) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house84 (waterheater:2010) schedule is not specified so the load may be inactive
+   ... ev_house84 (evcharger_det:2012) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2016)
+   ... unresponsiveLoad_house85 (ZIPload:2018) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house85 (ZIPload:2019) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house85 (waterheater:2021) schedule is not specified so the load may be inactive
+   ... ev_house85 (evcharger_det:2023) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2027)
+   ... unresponsiveLoad_house86 (ZIPload:2029) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house86 (ZIPload:2030) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house86 (waterheater:2032) schedule is not specified so the load may be inactive
+   ... ev_house86 (evcharger_det:2034) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2038)
+   ... unresponsiveLoad_house87 (ZIPload:2040) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house87 (ZIPload:2041) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house87 (waterheater:2043) schedule is not specified so the load may be inactive
+   ... ev_house87 (evcharger_det:2045) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2049)
+   ... unresponsiveLoad_house88 (ZIPload:2051) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house88 (ZIPload:2052) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house88 (waterheater:2054) schedule is not specified so the load may be inactive
+   ... ev_house88 (evcharger_det:2056) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2060)
+   ... unresponsiveLoad_house89 (ZIPload:2062) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house89 (ZIPload:2063) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house89 (waterheater:2065) schedule is not specified so the load may be inactive
+   ... ev_house89 (evcharger_det:2067) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2071)
+   ... unresponsiveLoad_house90 (ZIPload:2073) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house90 (ZIPload:2074) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house90 (waterheater:2076) schedule is not specified so the load may be inactive
+   ... ev_house90 (evcharger_det:2078) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2082)
+   ... unresponsiveLoad_house91 (ZIPload:2084) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house91 (ZIPload:2085) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house91 (waterheater:2087) schedule is not specified so the load may be inactive
+   ... ev_house91 (evcharger_det:2089) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2093)
+   ... unresponsiveLoad_house92 (ZIPload:2095) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house92 (ZIPload:2096) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house92 (waterheater:2098) schedule is not specified so the load may be inactive
+   ... ev_house92 (evcharger_det:2100) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2104)
+   ... unresponsiveLoad_house93 (ZIPload:2106) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house93 (ZIPload:2107) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house93 (waterheater:2109) schedule is not specified so the load may be inactive
+   ... ev_house93 (evcharger_det:2111) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2115)
+   ... unresponsiveLoad_house94 (ZIPload:2117) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house94 (ZIPload:2118) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house94 (waterheater:2120) schedule is not specified so the load may be inactive
+   ... ev_house94 (evcharger_det:2122) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2126)
+   ... unresponsiveLoad_house95 (ZIPload:2128) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house95 (ZIPload:2129) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house95 (waterheater:2131) schedule is not specified so the load may be inactive
+   ... ev_house95 (evcharger_det:2133) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2137)
+   ... unresponsiveLoad_house96 (ZIPload:2139) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house96 (ZIPload:2140) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house96 (waterheater:2142) schedule is not specified so the load may be inactive
+   ... ev_house96 (evcharger_det:2144) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2148)
+   ... unresponsiveLoad_house97 (ZIPload:2150) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house97 (ZIPload:2151) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house97 (waterheater:2153) schedule is not specified so the load may be inactive
+   ... ev_house97 (evcharger_det:2155) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2159)
+   ... unresponsiveLoad_house98 (ZIPload:2161) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house98 (ZIPload:2162) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house98 (waterheater:2164) schedule is not specified so the load may be inactive
+   ... ev_house98 (evcharger_det:2166) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2170)
+   ... unresponsiveLoad_house99 (ZIPload:2172) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house99 (ZIPload:2173) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house99 (waterheater:2175) schedule is not specified so the load may be inactive
+   ... ev_house99 (evcharger_det:2177) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2181)
+   ... unresponsiveLoad_house100 (ZIPload:2183) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house100 (ZIPload:2184) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house100 (waterheater:2186) schedule is not specified so the load may be inactive
+   ... ev_house100 (evcharger_det:2188) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2192)
+   ... unresponsiveLoad_house101 (ZIPload:2194) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house101 (ZIPload:2195) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house101 (waterheater:2197) schedule is not specified so the load may be inactive
+   ... ev_house101 (evcharger_det:2199) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2203)
+   ... unresponsiveLoad_house102 (ZIPload:2205) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house102 (ZIPload:2206) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house102 (waterheater:2208) schedule is not specified so the load may be inactive
+   ... ev_house102 (evcharger_det:2210) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2214)
+   ... unresponsiveLoad_house103 (ZIPload:2216) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house103 (ZIPload:2217) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house103 (waterheater:2219) schedule is not specified so the load may be inactive
+   ... ev_house103 (evcharger_det:2221) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2225)
+   ... unresponsiveLoad_house104 (ZIPload:2227) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house104 (ZIPload:2228) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house104 (waterheater:2230) schedule is not specified so the load may be inactive
+   ... ev_house104 (evcharger_det:2232) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2236)
+   ... unresponsiveLoad_house105 (ZIPload:2238) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house105 (ZIPload:2239) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house105 (waterheater:2241) schedule is not specified so the load may be inactive
+   ... ev_house105 (evcharger_det:2243) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2247)
+   ... unresponsiveLoad_house106 (ZIPload:2249) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house106 (ZIPload:2250) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house106 (waterheater:2252) schedule is not specified so the load may be inactive
+   ... ev_house106 (evcharger_det:2254) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2258)
+   ... unresponsiveLoad_house107 (ZIPload:2260) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house107 (ZIPload:2261) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house107 (waterheater:2263) schedule is not specified so the load may be inactive
+   ... ev_house107 (evcharger_det:2265) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2269)
+   ... unresponsiveLoad_house108 (ZIPload:2271) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house108 (ZIPload:2272) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house108 (waterheater:2274) schedule is not specified so the load may be inactive
+   ... ev_house108 (evcharger_det:2276) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2280)
+   ... unresponsiveLoad_house109 (ZIPload:2282) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house109 (ZIPload:2283) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house109 (waterheater:2285) schedule is not specified so the load may be inactive
+   ... ev_house109 (evcharger_det:2287) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2291)
+   ... unresponsiveLoad_house110 (ZIPload:2293) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house110 (ZIPload:2294) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house110 (waterheater:2296) schedule is not specified so the load may be inactive
+   ... ev_house110 (evcharger_det:2298) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2302)
+   ... unresponsiveLoad_house111 (ZIPload:2304) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house111 (ZIPload:2305) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house111 (waterheater:2307) schedule is not specified so the load may be inactive
+   ... ev_house111 (evcharger_det:2309) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2313)
+   ... unresponsiveLoad_house112 (ZIPload:2315) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house112 (ZIPload:2316) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house112 (waterheater:2318) schedule is not specified so the load may be inactive
+   ... ev_house112 (evcharger_det:2320) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2324)
+   ... unresponsiveLoad_house113 (ZIPload:2326) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house113 (ZIPload:2327) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house113 (waterheater:2329) schedule is not specified so the load may be inactive
+   ... ev_house113 (evcharger_det:2331) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2335)
+   ... unresponsiveLoad_house114 (ZIPload:2337) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house114 (ZIPload:2338) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house114 (waterheater:2340) schedule is not specified so the load may be inactive
+   ... ev_house114 (evcharger_det:2342) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2346)
+   ... unresponsiveLoad_house115 (ZIPload:2348) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house115 (ZIPload:2349) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house115 (waterheater:2351) schedule is not specified so the load may be inactive
+   ... ev_house115 (evcharger_det:2353) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2357)
+   ... unresponsiveLoad_house116 (ZIPload:2359) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house116 (ZIPload:2360) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house116 (waterheater:2362) schedule is not specified so the load may be inactive
+   ... ev_house116 (evcharger_det:2364) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2368)
+   ... unresponsiveLoad_house117 (ZIPload:2370) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house117 (ZIPload:2371) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house117 (waterheater:2373) schedule is not specified so the load may be inactive
+   ... ev_house117 (evcharger_det:2375) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2379)
+   ... unresponsiveLoad_house118 (ZIPload:2381) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house118 (ZIPload:2382) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house118 (waterheater:2384) schedule is not specified so the load may be inactive
+   ... ev_house118 (evcharger_det:2386) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2390)
+   ... unresponsiveLoad_house119 (ZIPload:2392) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house119 (ZIPload:2393) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house119 (waterheater:2395) schedule is not specified so the load may be inactive
+   ... ev_house119 (evcharger_det:2397) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2401)
+   ... unresponsiveLoad_house120 (ZIPload:2403) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house120 (ZIPload:2404) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house120 (waterheater:2406) schedule is not specified so the load may be inactive
+   ... ev_house120 (evcharger_det:2408) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2412)
+   ... unresponsiveLoad_house121 (ZIPload:2414) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house121 (ZIPload:2415) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house121 (waterheater:2417) schedule is not specified so the load may be inactive
+   ... ev_house121 (evcharger_det:2419) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2423)
+   ... unresponsiveLoad_house122 (ZIPload:2425) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house122 (ZIPload:2426) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house122 (waterheater:2428) schedule is not specified so the load may be inactive
+   ... ev_house122 (evcharger_det:2430) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2434)
+   ... unresponsiveLoad_house123 (ZIPload:2436) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house123 (ZIPload:2437) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house123 (waterheater:2439) schedule is not specified so the load may be inactive
+   ... ev_house123 (evcharger_det:2441) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2445)
+   ... unresponsiveLoad_house124 (ZIPload:2447) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house124 (ZIPload:2448) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house124 (waterheater:2450) schedule is not specified so the load may be inactive
+   ... ev_house124 (evcharger_det:2452) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2456)
+   ... unresponsiveLoad_house125 (ZIPload:2458) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house125 (ZIPload:2459) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house125 (waterheater:2461) schedule is not specified so the load may be inactive
+   ... ev_house125 (evcharger_det:2463) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2467)
+   ... unresponsiveLoad_house126 (ZIPload:2469) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house126 (ZIPload:2470) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house126 (waterheater:2472) schedule is not specified so the load may be inactive
+   ... ev_house126 (evcharger_det:2474) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2478)
+   ... unresponsiveLoad_house127 (ZIPload:2480) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house127 (ZIPload:2481) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house127 (waterheater:2483) schedule is not specified so the load may be inactive
+   ... ev_house127 (evcharger_det:2485) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2489)
+   ... unresponsiveLoad_house128 (ZIPload:2491) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house128 (ZIPload:2492) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house128 (waterheater:2494) schedule is not specified so the load may be inactive
+   ... ev_house128 (evcharger_det:2496) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2500)
+   ... unresponsiveLoad_house129 (ZIPload:2502) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house129 (ZIPload:2503) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house129 (waterheater:2505) schedule is not specified so the load may be inactive
+   ... ev_house129 (evcharger_det:2507) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2511)
+   ... unresponsiveLoad_house130 (ZIPload:2513) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house130 (ZIPload:2514) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house130 (waterheater:2516) schedule is not specified so the load may be inactive
+   ... ev_house130 (evcharger_det:2518) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2522)
+   ... unresponsiveLoad_house131 (ZIPload:2524) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house131 (ZIPload:2525) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house131 (waterheater:2527) schedule is not specified so the load may be inactive
+   ... ev_house131 (evcharger_det:2529) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2533)
+   ... unresponsiveLoad_house132 (ZIPload:2535) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house132 (ZIPload:2536) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house132 (waterheater:2538) schedule is not specified so the load may be inactive
+   ... ev_house132 (evcharger_det:2540) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2544)
+   ... unresponsiveLoad_house133 (ZIPload:2546) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house133 (ZIPload:2547) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house133 (waterheater:2549) schedule is not specified so the load may be inactive
+   ... ev_house133 (evcharger_det:2551) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2555)
+   ... unresponsiveLoad_house134 (ZIPload:2557) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house134 (ZIPload:2558) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house134 (waterheater:2560) schedule is not specified so the load may be inactive
+   ... ev_house134 (evcharger_det:2562) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2566)
+   ... unresponsiveLoad_house135 (ZIPload:2568) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house135 (ZIPload:2569) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house135 (waterheater:2571) schedule is not specified so the load may be inactive
+   ... ev_house135 (evcharger_det:2573) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2577)
+   ... unresponsiveLoad_house136 (ZIPload:2579) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house136 (ZIPload:2580) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house136 (waterheater:2582) schedule is not specified so the load may be inactive
+   ... ev_house136 (evcharger_det:2584) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2588)
+   ... unresponsiveLoad_house137 (ZIPload:2590) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house137 (ZIPload:2591) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house137 (waterheater:2593) schedule is not specified so the load may be inactive
+   ... ev_house137 (evcharger_det:2595) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2599)
+   ... unresponsiveLoad_house138 (ZIPload:2601) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house138 (ZIPload:2602) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house138 (waterheater:2604) schedule is not specified so the load may be inactive
+   ... ev_house138 (evcharger_det:2606) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2610)
+   ... unresponsiveLoad_house139 (ZIPload:2612) schedule is not specified so the load may be inactive
+   ... responsiveLoad_house139 (ZIPload:2613) schedule is not specified so the load may be inactive
+WARNING  [INIT] : waterheater::init() : height and diameter were not specified, defaulting to 3.78 ft
+   ... waterheater::init() : setting initial height to tank height.
+   ... waterHeater_house139 (waterheater:2615) schedule is not specified so the load may be inactive
+   ... ev_house139 (evcharger_det:2617) schedule is not specified so the load may be inactive
+WARNING  [INIT] : NHTS data file not found, using defaults
+WARNING  [INIT] : Efficiency unspecified - defaulted to 0.900000 for this inverter type
+   ... init(): Rated_kVA was not specified.  Calculating from other defaults.
+WARNING  [INIT] : The PV is over rated for its parent inverter.
+   ... solar init: climate data was found!
+WARNING  [INIT] : v_max was not given -- using default value (battery: 2621)
+   ... creating index 0
+   ... creating index 1
+   ... creating index 2
+   ... shuffled 6 lists in index 0
+   ... shuffled 6 lists in index 1
+   ... shuffled 6 lists in index 2
+   ... accepting connection from 127.0.0.1 on port 28134
+   ... GET /xml/clock HTTP/1.1 (host='localhost:45477', len=0, keep-alive=0)
+   ... HTTP/1.1 200 Ok (len=125, mime=text/xml)
+   ... socket 756 closed
+   ... server shutdown on exit in progress...
+WARNING  [INIT] : new exitcode 8 overwrites existing exitcode 130
+   ... server shutdown on exit done
